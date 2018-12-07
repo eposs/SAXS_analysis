@@ -6,7 +6,7 @@
 Based on the bones of the solution scattering code from Ben Barad (bbarad), Michael Thompson (miket928, and Alex Wolff (LifeHasOrder). Code for standard analysis & plotting of SAXS data. Also some extras for analyzing SEC-SAXS data. 
 
 ## Authors:
-Erin THompson
+Erin Thompson
 
 
 ### Contents
